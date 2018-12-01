@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
      * {@link android.support.v4.app.FragmentStatePagerAdapter}.
      */
     private SectionsPagerAdapter mSectionsPagerAdapter;
-
+//here is the change
     /**
      * The {@link ViewPager} that will host the section contents.
      */
